@@ -1,0 +1,23 @@
+{
+  "name": "Leaflet vector boilerplate",
+  "version": "0.0.0",
+  "authors": [
+    "Ash Kyd <ash@kyd.com.au>"
+  ],
+  "description": "Boilerplate project for a Leaflet vector map.",
+  "license": "BSD-2-Clause",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Leaflet.label": "~0.2.1",
+    "jquery": "~2.1.0",
+    "leaflet-0.7.2": "http://leaflet-cdn.s3.amazonaws.com/build/leaflet-0.7.2.zip",
+    "leaflet.selectivejson": "*"
+  }
+}
